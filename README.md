@@ -24,7 +24,7 @@ Founder of <b>Solo Tree Community</b> 🌳
 <a href="https://solotree.in">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
-<h2>🚀 Skills</h2>
+<h2>⚙️ DevOps & Cloud Skills</h2>
 
 <p align="left">
 
@@ -37,11 +37,14 @@ Founder of <b>Solo Tree Community</b> 🌳
 <!-- Jenkins -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60"/>
 
+<!-- Kubernetes -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60"/>
+
+<!-- Terraform -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60"/>
+
 <!-- Linux -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
-
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
 
 <!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
@@ -52,13 +55,14 @@ Founder of <b>Solo Tree Community</b> 🌳
 <!-- Nginx -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60"/>
 
-<!-- MySQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+<!-- Prometheus -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60" height="60"/>
 
-<!-- MongoDB -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+<!-- Grafana -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60" height="60"/>
 
 </p>
+
 <h1>About Me</h1>
 
 ```yaml
