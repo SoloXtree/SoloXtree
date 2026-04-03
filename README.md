@@ -18,7 +18,7 @@ Founder of <b>Solo Tree Community</b> 🌳
 &nbsp;
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif">
+<img src="https://miro.medium.com/v2/resize:fit:786/format:webp/0*RWIRe7eq_Vmls6O-.gif">
 </p>
 
 <a href="https://solotree.in">
