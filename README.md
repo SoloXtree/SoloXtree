@@ -24,21 +24,47 @@ Founder of <b>Solo Tree Community</b> 🌳
 <a href="https://solotree.in">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
+<h2>🚀 Skills</h2>
 
+<p align="left">
+
+<!-- AWS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/>
+
+<!-- Docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
+
+<!-- Jenkins -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60"/>
+
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+
+<!-- Nginx -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60"/>
+
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+
+<!-- MongoDB -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+
+</p>
 <h1>About Me</h1>
 
 ```yaml
 Name: Vasanth Raj
 Role: AWS & DevOps Cloud Engineer
 Founder: Solo Tree Community
-
-Skills:
-  - AWS Cloud
-  - DevOps
-  - Docker
-  - Jenkins
-  - Linux
-  - Python
 
 Projects:
   - SoloTreeBots
