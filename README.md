@@ -4,11 +4,11 @@
 
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" />
-Sᴏʟᴏ ᴛʀᴇᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ ✗
+ ✗ VASANTH RAJ ✗
 </h1>
 
 <h3 align="center">
-Vasanth Raj | AWS & DevOps Cloud Engineer ☁️
+  AWS & DevOps Cloud Engineer ☁️ | Sᴏʟᴏ ᴛʀᴇᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ 🌳
 </h3>
 
 <p align="center">
@@ -66,17 +66,17 @@ Founder of <b>Solo Tree Community</b> 🌳
 <h1>About Me</h1>
 
 ```yaml
-Name: Vasanth Raj
-Role: AWS & DevOps Cloud Engineer
-Founder: Solo Tree Community
+👤 **Name:** Vasanth Raj  
+💼 **Role:** AWS & DevOps Cloud Engineer  
+🚀 **Founder:** Solo Tree Community  
 
-Projects:
-  - SoloTreeBots
-  - Telegram Bot Development
-  - Server Management
+📂 **Projects**
+- 🤖 SoloTreeBots
+- 🤖 Telegram Bot Development
+- 🖥️ Server Management
 
-Community:
-  Telegram Group: @SoloTreee
+🌐 **Community**
+- 💬 Telegram: @SoloTreee
 
-Contact:
-  Email: solotreebots@gmail.com
+📧 **Contact**
+- ✉️ solotreebots@gmail.com
