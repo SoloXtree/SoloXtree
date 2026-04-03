@@ -26,7 +26,7 @@ Founder of <b>Solo Tree Community</b> 🌳
 </a>
 <h2>⚙️ DevOps & Cloud Skills</h2>
 
-<p align="left">
+<p align="center">
 
 <!-- AWS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/>
