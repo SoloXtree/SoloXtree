@@ -18,7 +18,7 @@ Founder of <b>Solo Tree Community</b> 🌳
 &nbsp;
 
 <p align="center">
-<img src="https://www.anblicks.com/wp-content/uploads/2021/08/DevSecOps.gif.gif">
+<img src="https://www.anblicks.com/wp-content/uploads/2021/08/DevSecOps.gif.gif" width="75px">
 </p>
 
 <a href="https://solotree.in">
